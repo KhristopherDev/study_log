@@ -53,7 +53,8 @@ Study_Log/Projects <br/>
 
 1. **Start with the index** in each folder — there’s usually a local `README.md` outlining that topic’s goals.  
 2. **Read the commits** – messages are concise but intentional, documenting thought process and experiments.  
-3. **Run the examples**: most things launch with `make run` or `docker compose up`. If it breaks, open an issue; a discovered bug is half‑solved.
+3. **Run the code** by opening the files directly or running the scripts/programs with your usual tools or IDE.
+If you find bugs or issues, open an issue here in the repo — discovering a bug is half the battle.
 
 ---
 
