@@ -44,7 +44,7 @@ Study_Log/Projects <br/>
 
 - **Languages:** Python, JavaScript/TypeScript, C#, Go  
 - **Frameworks/Libs:** Django & FastAPI, React, Unity, Godot  
-- **Tooling:** Git, Docker, VS Code, GitHub Actions, Makefile  
+- **Tooling:** Git, VS Code
 - **Paradigms in focus:** object‑oriented, functional, and ECS component architecture.
 
 ---
