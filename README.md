@@ -17,23 +17,23 @@ This repo is my **battle diary**: each commit is a tangible step toward mastery 
 
 ## 📂 Directory Layout
 
-Study_Log/Projects
-├── 01_algorithms_basics/
-│ └── ...
-├── 02_data_structures/
-│ └── ...
-├── 03_oop/
-│ └── ...
-├── 04_design_patterns/
-│ └── ...
-├── 05_web/
-│ └── ...
-├── 06_games/
-│ └── ...
-├── 07_data_science/
-│ └── ...
-└── 99_misc/
-└── ...
+Study_Log/Projects <br/>
+├── 01_algorithms_basics/ <br/>
+│ └── ... <br/>
+├── 02_data_structures/ <br/>
+│ └── ... <br/>
+├── 03_oop/ <br/>
+│ └── ... <br/>
+├── 04_design_patterns/ <br/>
+│ └── ... <br/>
+├── 05_web/ <br/>
+│ └── ... <br/>
+├── 06_games/ <br/>
+│ └── ... <br/>
+├── 07_data_science/ <br/>
+│ └── ... <br/>
+└── 99_misc/ <br/>
+└── ... <br/>
 
 
 *Each folder covers a core topic. Inside you’ll find exercises, mini‑projects, and markdown notes.*
