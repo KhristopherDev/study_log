@@ -55,6 +55,7 @@ class Window: #Tkinter window encapsulation to use functions
         )
         self.confirm.pack(pady=10)
 
+        self.root.resizable(False, False)
         self.root.mainloop() # Window init
 
     def main(self):
