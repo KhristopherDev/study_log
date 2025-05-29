@@ -11,7 +11,7 @@ def generate_planet_name():
     return f"{prefix}{suffix} {theme}"
 
 def main():
-    print("🌌 Random Sci-Fi Planet Name Generator 🌌\n")
+    print("Random Sci-Fi Planet Name Generator\n")
     for _ in range(10):
         print(f"- {generate_planet_name()}")
 
