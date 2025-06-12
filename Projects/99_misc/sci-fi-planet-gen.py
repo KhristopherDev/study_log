@@ -16,4 +16,8 @@ def main():
         print(f"- {generate_planet_name()}")
 
 if __name__ == "__main__":
-    main()
+    while True:
+        if (input("Gerar um nomes de planetas? (S/N) ") == "N"):
+            break;
+        main()
+    
